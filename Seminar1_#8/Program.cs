@@ -1,4 +1,4 @@
-﻿Console.Write("Введите число, для вывода четных чисел от 1 до N: ");
+﻿Console.Write("Введите число, для вывода четных чисел от 1 до указанного: ");
 int num1 = Convert.ToInt32(Console.ReadLine());
 
 if (num1 > 1)
